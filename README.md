@@ -1,5 +1,5 @@
 # LED-BLINK
-# 💡 Experiment 08 – Interfacing a Digital Output (LED) with ARM Development Board
+# 💡 Experiment 01 – Interfacing a Digital Output (LED) with ARM Development Board
 
 ### 🎯 **Aim**
 To interface a digital output (LED) to an ARM development board and write a blink code.
@@ -110,7 +110,11 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+<img width="888" height="519" alt="image" src="https://github.com/user-attachments/assets/af64eb7e-bf87-490b-abb6-48e099ae032d" />
+
 CASE 2: LED OFF
+
+<img width="877" height="523" alt="image" src="https://github.com/user-attachments/assets/8521c530-c641-4b05-bfa9-8cfdca492bc3" />
 
 ---
 ### RESULT
